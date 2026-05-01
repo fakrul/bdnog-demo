@@ -1,4 +1,5 @@
-baseURL = "https://demo.bdnog.org/"
+baseURL = "/"
+relativeURLs = true
 theme = "risotto"
 title = "bdnog-demo"
 author = "bdnog"
